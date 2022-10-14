@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.configuration-container {
+  background-color: #475569;
+  height: 26vh;
+  padding-left: 60px;
+  padding-top: 20px;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+  color: #f1f5f9;
+}
+.un-order-list {
+  padding: 0px;
+}
+.list-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.label-style {
+  font-family: 'Roboto';
+  font-size: 11px;
+  color: #f1f5f9;
+  padding-left: 4px;
+}
